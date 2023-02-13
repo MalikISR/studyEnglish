@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragments.WordTranslation">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/word3"
+            android:layout_width="150dp"
+            android:layout_height="80dp"
+            android:gravity="center"
+            android:text="@string/word"
+            android:textColor="@color/black"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            app:layout_constraintStart_toEndOf="@+id/textView13"
+            app:layout_constraintTop_toTopOf="@+id/word1" />
+
+        <EditText
+            android:id="@+id/edOneWord"
+            android:layout_width="60dp"
+            android:layout_height="45dp"
+            android:layout_marginTop="8dp"
+            android:autofillHints=""
+            android:ems="10"
+            android:inputType="number"
+            android:text="1"
+            android:textColor="@color/black"
+            app:layout_constraintEnd_toEndOf="@+id/oneWord"
+            app:layout_constraintStart_toStartOf="@+id/oneWord"
+            app:layout_constraintTop_toBottomOf="@+id/oneWord"
+            tools:ignore="TouchTargetSizeCheck,DuplicateSpeakableTextCheck,TextContrastCheck" />
+
+        <EditText
+            android:id="@+id/edEndWord"
+            android:layout_width="75dp"
+            android:layout_height="45dp"
+            android:layout_marginTop="8dp"
+            android:autofillHints=""
+            android:ems="10"
+            android:inputType="number"
+            android:text="10"
+            android:textColor="@color/black"
+            app:layout_constraintEnd_toEndOf="@+id/endWord"
+            app:layout_constraintStart_toStartOf="@+id/endWord"
+            app:layout_constraintTop_toBottomOf="@+id/endWord"
+            tools:ignore="TouchTargetSizeCheck,TextContrastCheck" />
+
+        <TextView
+            android:id="@+id/oneWord"
+            android:layout_width="51dp"
+            android:layout_height="35dp"
+            android:layout_marginStart="22dp"
+            android:layout_marginTop="24dp"
+            android:text="Первое слово:"
+            android:textColor="@color/black"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/endWord"
+            android:layout_width="77dp"
+            android:layout_height="35dp"
+            android:layout_marginStart="16dp"
+            android:gravity="center"
+            android:text="Последнее слово:"
+            android:textColor="@color/black"
+            app:layout_constraintBottom_toBottomOf="@+id/oneWord"
+            app:layout_constraintStart_toEndOf="@+id/oneWord"
+            app:layout_constraintTop_toTopOf="@+id/oneWord" />
+
+        <Button
+            android:id="@+id/bStart"
+            android:layout_width="102dp"
+            android:layout_height="45dp"
+            android:layout_marginTop="10dp"
+            android:background="@android:drawable/dialog_holo_dark_frame"
+            android:text="@string/start"
+            app:layout_constraintEnd_toEndOf="@+id/chRand"
+            app:layout_constraintHorizontal_bias="0.3"
+            app:layout_constraintStart_toStartOf="@+id/chRand"
+            app:layout_constraintTop_toBottomOf="@+id/chRand"
+            tools:ignore="TouchTargetSizeCheck" />
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/cardView"
+            android:layout_width="0dp"
+            android:layout_height="2dp"
+            android:layout_marginTop="16dp"
+            android:background="#616161"
+            app:cardBackgroundColor="#636363"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/edEndWord" />
+
+        <TextView
+            android:id="@+id/tvWord"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="84dp"
+            android:text="@string/wordRus"
+            android:textColor="@color/black"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/cardView" />
+
+        <TextView
+            android:id="@+id/word1"
+            android:layout_width="150dp"
+            android:layout_height="80dp"
+            android:layout_marginTop="12dp"
+            android:gravity="center"
+            android:text="@string/word"
+            android:textColor="@color/black"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toStartOf="@+id/textView13"
+            app:layout_constraintTop_toBottomOf="@+id/tvWord" />
+
+        <TextView
+            android:id="@+id/word2"
+            android:layout_width="150dp"
+            android:layout_height="80dp"
+            android:layout_marginTop="24dp"
+            android:gravity="center"
+            android:text="@string/word"
+            android:textColor="@color/black"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="@+id/word1"
+            app:layout_constraintStart_toStartOf="@+id/word1"
+            app:layout_constraintTop_toBottomOf="@+id/word1" />
+
+        <Button
+            android:id="@+id/bNext"
+            android:layout_width="123dp"
+            android:layout_height="73dp"
+            android:layout_marginTop="32dp"
+            android:background="@android:drawable/dialog_holo_light_frame"
+            android:text="@string/next"
+            app:layout_constraintEnd_toEndOf="@+id/word4"
+            app:layout_constraintHorizontal_bias="1.0"
+            app:layout_constraintStart_toStartOf="@+id/word4"
+            app:layout_constraintTop_toBottomOf="@+id/word4" />
+
+        <CheckBox
+            android:id="@+id/chEng"
+            android:layout_width="93dp"
+            android:layout_height="40dp"
+            android:layout_marginStart="16dp"
+            android:text="English"
+            android:textColor="@color/black"
+            app:layout_constraintBottom_toBottomOf="@+id/endWord"
+            app:layout_constraintStart_toEndOf="@+id/endWord"
+            app:layout_constraintTop_toTopOf="@+id/endWord"
+            tools:ignore="TouchTargetSizeCheck" />
+
+        <CheckBox
+            android:id="@+id/chRand"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_marginStart="16dp"
+            android:text="Random"
+            android:textColor="@color/black"
+            app:layout_constraintBottom_toBottomOf="@+id/chEng"
+            app:layout_constraintStart_toEndOf="@+id/chEng"
+            app:layout_constraintTop_toTopOf="@+id/chEng"
+            tools:ignore="TouchTargetSizeCheck" />
+
+        <TextView
+            android:id="@+id/tvCorrectly"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Correctly:"
+            android:textColor="#089317"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            app:layout_constraintStart_toStartOf="@+id/word2"
+            app:layout_constraintTop_toTopOf="@+id/bNext" />
+
+        <TextView
+            android:id="@+id/tvErrors"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Errors:"
+            android:textColor="#D10000"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            app:layout_constraintStart_toStartOf="@+id/tvCorrectly"
+            app:layout_constraintTop_toBottomOf="@+id/tvCorrectly" />
+
+        <Button
+            android:id="@+id/bReset"
+            android:layout_width="69dp"
+            android:layout_height="31dp"
+            android:text="reset"
+            android:textSize="10sp"
+            app:layout_constraintStart_toStartOf="@+id/tvErrors"
+            app:layout_constraintTop_toBottomOf="@+id/tvErrors"
+            tools:ignore="TouchTargetSizeCheck" />
+
+        <TextView
+            android:id="@+id/textView12"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:text="Всего слов:"
+            android:textColor="@color/black"
+            app:layout_constraintEnd_toEndOf="@+id/chEng"
+            app:layout_constraintHorizontal_bias="1.0"
+            app:layout_constraintStart_toStartOf="@+id/chEng"
+            app:layout_constraintTop_toBottomOf="@+id/chEng" />
+
+        <TextView
+            android:id="@+id/quantityWord"
+            android:layout_width="wrap_content"
+            android:layout_height="20dp"
+            android:layout_marginTop="8dp"
+            android:text="28"
+            android:textColor="@color/black"
+            app:layout_constraintEnd_toEndOf="@+id/textView12"
+            app:layout_constraintStart_toStartOf="@+id/textView12"
+            app:layout_constraintTop_toBottomOf="@+id/textView12" />
+
+        <TextView
+            android:id="@+id/word4"
+            android:layout_width="150dp"
+            android:layout_height="80dp"
+            android:gravity="center"
+            android:text="@string/word"
+            android:textColor="@color/black"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="@+id/word3"
+            app:layout_constraintStart_toStartOf="@+id/word3"
+            app:layout_constraintTop_toTopOf="@+id/word2" />
+
+        <TextView
+            android:id="@+id/textView13"
+            android:layout_width="30dp"
+            android:layout_height="wrap_content"
+            android:visibility="invisible"
+            app:layout_constraintEnd_toEndOf="@+id/tvWord"
+            app:layout_constraintStart_toStartOf="@+id/tvWord"
+            app:layout_constraintTop_toBottomOf="@+id/tvWord" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</FrameLayout>

@@ -1,0 +1,2056 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="english">
+        <item>as [ æz ]</item>
+        <item>I [ aɪ ]</item>
+        <item>his [ hɪz ]</item>
+        <item>that [ ðæt ]</item>
+        <item>he [ hiː ]</item>
+        <item>was [ wɒz ]</item>
+        <item>for [ fɔː r]</item>
+        <item>on/at [ ɒn/ ət ]</item>
+        <item>are [ ɑː r]</item>
+        <item>with [ wɪð ]</item>
+        <item>they [ ðeɪ ]</item>
+        <item>be [ biː ]</item>
+        <item>one [ wʌn ]</item>
+        <item>have [ hæv ]</item>
+        <item>this [ ðɪs ]</item>
+        <item>from [ frɒm ]</item>
+        <item>by [ baɪ ]</item>
+        <item>hot [ hɒt ]</item>
+        <item>word [ wɜːd ]</item>
+        <item>but [ bʌt ]</item>
+        <item>what [ wɒt ]</item>
+        <item>some [ sʌm ]</item>
+        <item>is [ ɪz ]</item>
+        <item>it [ ɪt ]</item>
+        <item>you [ juː ]</item>
+        <item>or [ ɔː r]</item>
+        <item>had [ hæd ]</item>
+        <item>the [ ðiː ]</item>
+        <item>of [ əv ]</item>
+        <item>to [ tuː ]</item>
+        <item>and [ ænd ]</item>
+        <item>in [ ɪn ]</item>
+        <item>we [ wiː ]</item>
+        <item>can [ kæn ]</item>
+        <item>out [ aʊt ]</item>
+        <item>other [ ˈʌð.ə r]</item>
+        <item>were [ wɜː r]</item>
+        <item>which [ wɪtʃ ]</item>
+        <item>do [ duː ]</item>
+        <item>their [ ðeə r]</item>
+        <item>time [ taɪm ]</item>
+        <item>if [ ɪf ]</item>
+        <item>will [wɪl]</item>
+        <item>how [ haʊ ]</item>
+        <item>said [ sed ]</item>
+        <item>each [ iːtʃ ]</item>
+        <item>tell [ tel ]</item>
+        <item>does [ dʌz ]</item>
+        <item>set [ set ]</item>
+        <item>three [ θriː ]</item>
+        <item>want [ wɒnt ]</item>
+        <item>air [ eə r]</item>
+        <item>well [wel] </item>
+        <item>also [ ˈɔːl.səʊ ]</item>
+        <item>play [ pleɪ ]</item>
+        <item>small [ smɔːl ]</item>
+        <item>end [ end ]</item>
+        <item>put [ pʊt ]та</item>
+        <item>home [ həʊm ]</item>
+        <item>read [ riːd ]</item>
+        <item>hand [ hænd ]</item>
+        <item>port [ pɔːt ] —</item>
+        <item>large [ lɑːdʒ ]</item>
+        <item>spell [ spel ]</item>
+        <item>add [ æd ] — д</item>
+        <item>even [ ˈiː.v ə n ]</item>
+        <item>land [ lænd ]</item>
+        <item>here [ hɪə r]</item>
+        <item>must [ mʌst ]</item>
+        <item>big [ bɪɡ ]</item>
+        <item>high [ haɪ ]</item>
+        <item>such [ sʌtʃ ]</item>
+        <item>follow [ ˈfɒl.əʊ ]</item>
+        <item>act [ ækt ]</item>
+        <item>why [ waɪ ]</item>
+        <item>ask [ ɑːsk ]</item>
+        <item>men [men]</item>
+        <item>change [ tʃeɪndʒ ]</item>
+        <item>went [ went ]</item>
+        <item>light [ laɪt ]</item>
+        <item>kind [ kaɪnd ]</item>
+        <item>off [ ɒf ]</item>
+        <item>need [ niːd ]</item>
+        <item>house [ haʊs ]</item>
+        <item>picture [ ˈpɪk.tʃə r]</item>
+        <item>try [ traɪ ]</item>
+        <item>us [ ʌs ]</item>
+        <item>again [ əˈɡen ]</item>
+        <item>animal [ ˈæn.ɪ.məl ]</item>
+        <item>point [ pɔɪnt ]</item>
+        <item>mother [ ˈmʌð.ə r]</item>
+        <item>world [ wɜːld ]</item>
+        <item>near [ nɪə r]</item>
+        <item>build [ bɪld ]</item>
+        <item>self [ self ]</item>
+        <item>earth [ ɜːθ ]</item>
+        <item>father [ ˈfɑː.ðə r]</item>
+        <item>any [ ˈen.i ]</item>
+        <item>new [ njuː ]</item>
+        <item>work [ wɜːk ]</item>
+        <item>part [pɑːt]</item>
+        <item>take [ teɪk ]</item>
+        <item>get [get]</item>
+        <item>place [ pleɪs ]</item>
+        <item>made [ meɪd ]</item>
+        <item>live [ lɪv ]</item>
+        <item>where [ weə r]</item>
+        <item>after [ ˈɑːf.tə r]</item>
+        <item>back [ bæk ]</item>
+        <item>little [ˈlɪt.əl]</item>
+        <item>only [ ˈəʊn.li ]</item>
+        <item>round [ raʊnd ]</item>
+        <item>man [ mæn ]</item>
+        <item>year [ jɪə r]</item>
+        <item>came [ keɪm ]</item>
+        <item>show [ ʃəʊ ]</item>
+        <item>every [ ˈev.ri ]</item>
+        <item>good [ ɡʊd ]</item>
+        <item>me [ miː ]</item>
+        <item>give [ ɡɪv ]</item>
+        <item>our [ aʊə r]</item>
+        <item>under [ ˈʌn.də] </item>
+        <item>name [ neɪm ]</item>
+        <item>very [ ˈver.i ]</item>
+        <item>through [ θruː ]</item>
+        <item>just [ dʒʌst ]</item>
+        <item>form [ fɔːm ]</item>
+        <item>sentence [ ˈsen.təns ]</item>
+        <item>great [ ɡreɪt ]</item>
+        <item>think [ θɪŋk ]</item>
+        <item>say [ seɪ ]</item>
+        <item>help [help]</item>
+        <item>low [ ləʊ]</item>
+        <item>line [ laɪn ]</item>
+        <item>differ [ ˈdɪf.ə r]</item>
+        <item>turn [ tɜːn ]</item>
+        <item>cause [ kɔːz ]</item>
+        <item>much [ mʌtʃ ]</item>
+        <item>mean [miːn]</item>
+        <item>before [ bɪˈfɔː r]</item>
+        <item>move [ muːv ]</item>
+        <item>right [ raɪt ]</item>
+        <item>boy [ bɔɪ ]</item>
+        <item>old [ əʊld ]</item>
+        <item>too [ tuː ]</item>
+        <item>same [ seɪm ]</item>
+        <item>she [ ʃiː ]</item>
+        <item>all [ ɔːl ]</item>
+        <item>there [ ðeə r]</item>
+        <item>when [ wen ]</item>
+        <item>up [ ʌp ]</item>
+        <item>use [ juːz ]</item>
+        <item>your [ jɔː r]</item>
+        <item>way [ weɪ ]</item>
+        <item>about [ əˈbaʊt ]</item>
+        <item>many [ ˈmen.i ]</item>
+        <item>then [ ðen ]</item>
+        <item>them [ ðem ]</item>
+        <item>write [ raɪt ]</item>
+        <item>would [ wʊd ]</item>
+        <item>like [ laɪk ]</item>
+        <item>so [ səʊ ]</item>
+        <item>these [ ðiːz ]</item>
+        <item>her [ hɜː r]</item>
+        <item>long [ lɒŋ ]</item>
+        <item>make [ meɪk ]</item>
+        <item>thing [ θɪŋ ]</item>
+        <item>see [ siː ]</item>
+        <item>him [ hɪm ]</item>
+        <item>two [ tuː ]</item>
+        <item>has [ hæz ]</item>
+        <item>look [ lʊk ]</item>
+        <item>more [ mɔː r]</item>
+        <item>day [ deɪ ]</item>
+        <item>could [ kʊd ]</item>
+        <item>go [ ɡəʊ ]</item>
+        <item>come [ kʌm ]</item>
+        <item>did [ dɪd ]</item>
+        <item>number [ ˈnʌm.bə r]</item>
+        <item>sound [ saʊnd ]</item>
+        <item>no [ nəʊ ]</item>
+        <item>most [ məʊst ]</item>
+        <item>people [ ˈpiː.p ə l ]</item>
+        <item>my [ maɪ ]</item>
+        <item>over [ ˈəʊ.və r]</item>
+        <item>know [ nəʊ ]</item>
+        <item>water [ ˈwɔː.tə r]</item>
+        <item>than [ ðæn ]</item>
+        <item>call [ kɔːl ]</item>
+        <item>first [ ˈfɜːst ]</item>
+        <item>who [ huː ]</item>
+        <item>may [ meɪ ]</item>
+        <item>down [ daʊn ]</item>
+        <item>side [ saɪd ]</item>
+        <item>been [ biːn ]</item>
+        <item>now [ naʊ ]</item>
+        <item>find [ faɪnd ]</item>
+        <item>head [ hed ]</item>
+        <item>stand [stænd]</item>
+        <item>own [ əʊn ]</item>
+        <item>page [ peɪdʒ ]</item>
+        <item>should [ ʃʊd ]</item>
+        <item>country [ ˈkʌn.tri ]</item>
+        <item>found [ faʊnd ]</item>
+        <item>answer [ ˈæn·sər ]</item>
+        <item>school [ skuːl ]</item>
+        <item>grow [ ɡrəʊ ]</item>
+        <item>study [ ˈstʌd.i ]</item>
+        <item>still [ stɪl ]</item>
+        <item>learn [ lɜːn ]</item>
+        <item>plant [ plɑːnt ]</item>
+        <item>cover [ ˈkʌv.ə r]</item>
+        <item>food [ fuːd ]</item>
+        <item>sun [ sʌn ]</item>
+        <item>four [ fɔː r]</item>
+        <item>between [ bɪˈtwiːn ]</item>
+        <item>state [ steɪt ]</item>
+        <item>keep [ kiːp ]</item>
+        <item>eye [ aɪ ]</item>
+        <item>never [ ˈnev.ə r]</item>
+        <item>last [ lɑːst ]</item>
+        <item>let [ let ]</item>
+        <item>thought [ θɔːt ]</item>
+        <item>city [ ˈsɪt.i ]</item>
+        <item>tree [ triː ]</item>
+        <item>cross [ krɒs ]</item>
+        <item>farm [ fɑːm ]</item>
+        <item>hard [ hɑːd ]</item>
+        <item>start [ stɑːt ]</item>
+        <item>might [ maɪt ]</item>
+        <item>story [ ˈstɔː.ri ]</item>
+        <item>saw [ sɔː ]</item>
+        <item>far [ fɑː r]</item>
+        <item>sea [ siː ]</item>
+        <item>draw [ drɔː ]</item>
+        <item>left [ left ]</item>
+        <item>late [ leɪt ]</item>
+        <item>run [ rʌn ]</item>
+        <item>don’t [ dəʊnt ]</item>
+        <item>while [ waɪl ]</item>
+        <item>press [ pres ]</item>
+        <item>close [ kləʊz ]</item>
+        <item>night [ naɪt ]</item>
+        <item>real [ rɪəl ]</item>
+        <item>life [ laɪf ]</item>
+        <item>few [ fjuː ]</item>
+        <item>north [ nɔːθ ]</item>
+        <item>book [ bʊk ]</item>
+        <item>carry [ ˈkær.i ]</item>
+        <item>took [ tʊk ]</item>
+        <item>science [ ˈsaɪ.əns ]</item>
+        <item>eat [ iːt ]</item>
+        <item>room [ ruːm ]</item>
+        <item>friend [ frend ]</item>
+        <item>began [ bɪˈɡæn ]</item>
+        <item>idea [ aɪˈdɪə ]</item>
+        <item>fish [ fɪʃ ]</item>
+        <item>mountain [ ˈmaʊn.tɪn ]</item>
+        <item>stop [ stɒp ]</item>
+        <item>once [ wʌns ]</item>
+        <item>base [ beɪs ]</item>
+        <item>hear [ hɪə r]</item>
+        <item>horse [ hɔːs ]</item>
+        <item>cut [ kʌt ]</item>
+        <item>sure [ ʃɔː r]</item>
+        <item>watch [ wɒtʃ ]</item>
+        <item>colour [ ˈkʌl.ə r]</item>
+        <item>face [ feɪs ]</item>
+        <item>wood [ wʊd ]</item>
+        <item>main [ meɪn ]</item>
+        <item>open [ ˈəʊ.p ə n ]</item>
+        <item>seem [ siːm ]</item>
+        <item>together [ təˈɡeð.ə r]</item>
+        <item>next [ nekst ]</item>
+        <item>white [ waɪt ]</item>
+        <item>children [ ˈtʃɪl.drən ]</item>
+        <item>begin [ bɪˈɡɪn ]</item>
+        <item>got [ ɡɒt ]</item>
+        <item>walk [ wɔːk ]</item>
+        <item>example [ɪɡˈzɑːm.p ə l]</item>
+        <item>ease [ iːz ]</item>
+        <item>paper [ ˈpeɪ.pə r]</item>
+        <item>group [ ɡruːp ]</item>
+        <item>always [ ˈɔːl.weɪz ]</item>
+        <item>music [ ˈmjuː.zɪk ]</item>
+        <item>those [ ðəʊz ]</item>
+        <item>both [ bəʊθ ]</item>
+        <item>mark [ mɑːk ]</item>
+        <item>often [ ˈɒf. ə n ]</item>
+        <item>letter [ ˈlet.ə r]</item>
+        <item>until [ ənˈtɪl ]</item>
+        <item>mile [ maɪl ]</item>
+        <item>river [ ˈrɪv.ə r]</item>
+        <item>car [ kɑː r]</item>
+        <item>feet [ fiːt ]</item>
+        <item>care [ keə r]</item>
+        <item>second [ ˈsek. ə nd ]</item>
+        <item>enough [ ɪˈnʌf ]</item>
+        <item>plain [ pleɪn ]</item>
+        <item>girl [ ɡɜːl ]</item>
+        <item>usual [ ˈjuː.ʒu.əl ]</item>
+        <item>young [ jʌŋ ]</item>
+        <item>ready [ ˈred.i ]</item>
+        <item>above [ əˈbʌv ]</item>
+        <item>ever [ ˈev.ə r]</item>
+        <item>red [ red ]</item>
+        <item>list [ lɪst ]</item>
+        <item>though [ ðəʊ ]</item>
+        <item>feel [ fiːl ]</item>
+        <item>talk [ tɔːk ]</item>
+        <item>bird [ bɜːd ]</item>
+        <item>soon [ suːn ]</item>
+        <item>body [ ˈbɒd.i ]</item>
+        <item>dog [ dɒɡ ]</item>
+        <item>family [ ˈfæm. ə l.i ]</item>
+        <item>direct [ daɪˈrekt ]</item>
+        <item>pose [ pəʊz ]</item>
+        <item>leave [ liːv ]</item>
+        <item>song [ sɒŋ ]</item>
+        <item>measure [ ˈmeʒ.ə r]</item>
+        <item>door [ dɔː r]</item>
+        <item>product [ ˈprɒd.ʌkt ]</item>
+        <item>black [ blæk ]</item>
+        <item>short [ ʃɔːt ]</item>
+        <item>numeral [ˈnjuː.mə.rəl]</item>
+        <item>class [ klɑːs ]</item>
+        <item>wind [ wɪnd ]</item>
+        <item>question [ ˈkwes.tʃən ]</item>
+        <item>happen [ ˈhæp. ə n ]</item>
+        <item>complete [ kəmˈpliːt ]</item>
+        <item>ship [ʃɪp]</item>
+        <item>area [ ˈeə.ri.ə ]</item>
+        <item>half [ hɑːf ]</item>
+        <item>rock [ rɒk ]</item>
+        <item>order [ ˈɔː.də r]</item>
+        <item>fire [faɪə</item>
+        <item>south [ saʊθ ]</item>
+        <item>problem [ ˈprɒb.ləm ]</item>
+        <item>piece [ piːs ]</item>
+        <item>told [ təʊld ]</item>
+        <item>knew [ njuː ]</item>
+        <item>pass [ pɑːs ]</item>
+        <item>since [ sɪns ]</item>
+        <item>top [ tɒp ]</item>
+        <item>whole [ həʊl ]</item>
+        <item>king [ kɪŋ ]</item>
+        <item>street [ striːt ]</item>
+        <item>inch [ ɪntʃ ]</item>
+        <item>multiply [ˈmʌl.tɪ.plaɪ]</item>
+        <item>nothing [ ˈnʌθ.ɪŋ ]</item>
+        <item>course [ kɔːs ]</item>
+        <item>stay [ steɪ ]</item>
+        <item>wheel [ wiːl ]</item>
+        <item>full [ fʊl ]</item>
+        <item>force [ fɔːs ]</item>
+        <item>blue [ bluː ]</item>
+        <item>object [ ˈɒb.dʒɪkt ]</item>
+        <item>decide [ dɪˈsaɪd ]</item>
+        <item>surface [ ˈsɜː.fɪs ]</item>
+        <item>deep [ diːp ]</item>
+        <item>moon [ muːn ]</item>
+        <item>island [ ˈaɪ.lənd ]</item>
+        <item>foot [ fʊt ]</item>
+        <item>system [ ˈsɪs.təm ]</item>
+        <item>busy [ ˈbɪz.i ]</item>
+        <item>test [ test ]</item>
+        <item>record [ rɪˈkɔːd ]</item>
+        <item>boat [ bəʊt ]</item>
+        <item>common [ ˈkɒm.ən ]</item>
+        <item>gold [ ɡəʊld ]</item>
+        <item>possible [ˈpɒs.ə.bəl]</item>
+        <item>plane [ pleɪn ]</item>
+        <item>stead [ sted ]</item>
+        <item>dry [ draɪ ]</item>
+        <item>wonder [ ˈwʌn.də r]</item>
+        <item>laugh [ lɑːf ]</item>
+        <item>thousand [ˈθaʊ.z ə nd]</item>
+        <item>ago [ əˈɡəʊ ]</item>
+        <item>ran [ ræn ]</item>
+        <item>check [ tʃek ]</item>
+        <item>game [ ɡeɪm ]</item>
+        <item>shape [ ʃeɪp ]</item>
+        <item>equate [ ɪˈkweɪt ]</item>
+        <item>OK [ ˌəʊˈkeɪ ]</item>
+        <item>miss [ mɪs ]</item>
+        <item>brought [ brɔːt ]</item>
+        <item>heat [ hiːt ]</item>
+        <item>snow [ snəʊ ]</item>
+        <item>tire [ taɪə r]</item>
+        <item>bring [ brɪŋ ]</item>
+        <item>yes [ jes ]</item>
+        <item>distant [ ˈdɪs.t ə nt ]</item>
+        <item>fill [ fɪl ]</item>
+        <item>east [ iːst ]</item>
+        <item>paint [ peɪnt ]</item>
+        <item>language [ ˈlæŋ.ɡwɪdʒ ]</item>
+        <item>among [ əˈmʌŋ ]</item>
+        <item>unit [ ˈjuː.nɪt ]</item>
+        <item>power [ paʊə r]</item>
+        <item>town [ taʊn ]</item>
+        <item>fine [ faɪn ]</item>
+        <item>certain [ ˈsɜː.t ə n ]</item>
+        <item>fly [ flaɪ ]</item>
+        <item>fall [fɔːl]</item>
+        <item>lead [ liːd ]</item>
+        <item>cry [ kraɪ ]</item>
+        <item>dark [ dɑːk ]</item>
+        <item>machine [ məˈʃiːn ]</item>
+        <item>note [ nəʊt ]</item>
+        <item>wait [ weɪt ]</item>
+        <item>plan [ plæn ]</item>
+        <item>figure [ ˈfɪɡ.ə r]</item>
+        <item>star [ stɑː r]</item>
+        <item>box [ bɒks ]</item>
+        <item>noun [ naʊn ]</item>
+        <item>field [ fiːld ]</item>
+        <item>rest [ rest ]</item>
+        <item>correct [ kəˈrekt ]</item>
+        <item>able [ ˈeɪ.b ə l ]</item>
+        <item>pound [ paʊnd ]</item>
+        <item>done [ dʌn ]</item>
+        <item>beauty [ ˈbjuː.ti ]</item>
+        <item>drive [ draɪv ]</item>
+        <item>stood [ stʊd ]</item>
+        <item>contain [ kənˈteɪn ]</item>
+        <item>front [ frʌnt ]</item>
+        <item>teach [tiːtʃ]</item>
+        <item>week [ wiːk ]</item>
+        <item>final [ ˈfaɪ.n ə l ]</item>
+        <item>gave [ ɡeɪv ]</item>
+        <item>green [ ɡriːn ]</item>
+        <item>oh [ əʊ ]</item>
+        <item>quick [ kwɪk ]</item>
+        <item>develop [ dɪˈvel.əp ]</item>
+        <item>ocean [ ˈəʊ.ʃ ə n ]</item>
+        <item>warm [ wɔːm ]</item>
+        <item>free [ friː ]</item>
+        <item>minute [ ˈmɪn.ɪt ]</item>
+        <item>strong [ strɒŋ ]</item>
+        <item>special [ˈspeʃ.əl]</item>
+        <item>mind [ maɪnd ]</item>
+        <item>behind [ bɪˈhaɪnd ]</item>
+        <item>clear [ klɪə r]</item>
+        <item>tail [ teɪl ]</item>
+        <item>produce [ prəˈdʒuːs ]</item>
+        <item>fact [ fækt ]</item>
+        <item>space [ speɪs ]</item>
+        <item>heard [ h ɜːd ]</item>
+        <item>best [ best ]</item>
+        <item>hour [ aʊə r]</item>
+        <item>better [ ˈbet.ə r]</item>
+        <item>true [ truː ]</item>
+        <item>during [ ˈdʒʊə.rɪŋ ]</item>
+        <item>hundred [ ˈhʌn.drəd ]</item>
+        <item>five [ faɪv ]</item>
+        <item>remember [ rɪˈmem.bə r]</item>
+        <item>step [ step ]</item>
+        <item>early [ ˈɜː.li ]</item>
+        <item>hold [ həʊld ]</item>
+        <item>west [ west ]</item>
+        <item>ground [ ɡraʊnd ]</item>
+        <item>interest [ ˈɪn.trəst ]</item>
+        <item>reach [ riːtʃ ]</item>
+        <item>fast [ fɑːst ]</item>
+        <item>verb [ vɜːb ]</item>
+        <item>sing [ sɪŋ ]</item>
+        <item>listen [ ˈlɪs. ə n ]</item>
+        <item>six [ sɪks ]</item>
+        <item>table [ ˈteɪ.b ə l ]</item>
+        <item>travel [ ˈtræv. ə l ]</item>
+        <item>less [ les ]</item>
+        <item>morning [ ˈmɔː.nɪŋ ]</item>
+        <item>ten [ ten ]</item>
+        <item>simple [ ˈsɪm.p ə l ]</item>
+        <item>several [ˈsev.ər.əl]</item>
+        <item>vowel [ vaʊəl ]</item>
+        <item>towards [ twoʊrdz ]</item>
+        <item>war [ wɔː r]</item>
+        <item>lay [ leɪ ]</item>
+        <item>against [ əˈɡenst ]</item>
+        <item>pattern [ ˈpæt. ə n ]</item>
+        <item>slow [ sləʊ ]</item>
+        <item>center [ ˈsen.tə r]</item>
+        <item>love [ lʌv ]</item>
+        <item>person [ ˈpɜː.s ə n ]</item>
+        <item>money [ ˈmʌn.i ]</item>
+        <item>serve [ sɜːv ]</item>
+        <item>appear [ əˈpɪə r]</item>
+        <item>road [ rəʊd ]</item>
+        <item>map [ mæp ]</item>
+        <item>rain [ reɪn ]</item>
+        <item>rule [ ruːl ]</item>
+        <item>govern [ ˈɡʌv. ə n ]</item>
+        <item>pull [pʊl]</item>
+        <item>cold [ kəʊld ]</item>
+        <item>notice [ ˈnəʊ.tɪs ]</item>
+        <item>voice [ vɔɪs ]</item>
+        <item>energy [ ˈen.ə.dʒi ]</item>
+        <item>hunt [ hʌnt ]</item>
+        <item>probable [ ˈprɒb.ə.b ə l ]</item>
+        <item>bed [ bed ]</item>
+        <item>brother [ ˈbrʌð.ə r ]</item>
+        <item>egg [ e ɡ ]</item>
+        <item>ride [ raɪd ]</item>
+        <item>cell [ sel ]</item>
+        <item>believe [ bɪˈliːv ]</item>
+        <item>perhaps [ pəˈhæps ]</item>
+        <item>pick [ pɪk ]</item>
+        <item>sudden [ ˈsʌd. ə n ]</item>
+        <item>count [ kaʊnt ]</item>
+        <item>square [ skwe ə r ]</item>
+        <item>reason [ ˈriː.z ə n ]</item>
+        <item>length [ leŋθ ]</item>
+        <item>represent [ ˌ rep. rɪˈzent ]</item>
+        <item>art [ ɑːt ]</item>
+        <item>subject [ ˈsʌb. dʒekt ]</item>
+        <item>region [ ˈriː.dʒ ə n ]</item>
+        <item>size [ saɪz ]</item>
+        <item>vary [ ˈveə.ri ]</item>
+        <item>settle [ ˈ set. ə l ]</item>
+        <item>speak [ spiːk ]</item>
+        <item>weight [ weɪt ]</item>
+        <item>general [ ˈdʒen. ə r. ə l ]</item>
+        <item>ice [ aɪs ]</item>
+        <item>matter [ ˈmæt.ə r ]</item>
+        <item>circle [ ˈsɜː.k ə l ]</item>
+        <item>pair [ pe ə r ]</item>
+        <item>include [ ɪnˈkluːd ]</item>
+        <item>divide [ dɪˈvaɪd ]</item>
+        <item>syllable [ ˈsɪl.ə.b ə l ]</item>
+        <item>felt [ felt ]</item>
+        <item>grand [ ɡrænd ]</item>
+        <item>ball [ bɔːl ]</item>
+        <item>yet [ jet ]</item>
+        <item>wave [ weɪv ]</item>
+        <item>drop [ drɒp ]</item>
+        <item>heart [ hɑːt ]</item>
+        <item>AM [ ˌ e ɪ ˈ em ]</item>
+        <item>present [ ˈ prez. ə nt ]</item>
+        <item>heavy [ ˈ hev. i ]</item>
+        <item>dance [ dɑːns ]</item>
+        <item>engine [ ˈ en. dʒɪn ]</item>
+        <item>position [ pəˈzɪʃ. ə n ]</item>
+        <item>arm [ ɑːm ]</item>
+        <item>wide [ waɪd ]</item>
+        <item>sail [ seɪl ]</item>
+        <item>material [ məˈtɪə.ri.əl ]</item>
+        <item>fraction [ ˈfræk.ʃ ə n ]</item>
+        <item>forest [ ˈfɒr.ɪst ]</item>
+        <item>sit [ sɪt ]</item>
+        <item>race [ reɪs ]</item>
+        <item>window [ ˈwɪn. dəʊ ]</item>
+        <item>store ( амер. ) [ stɔː r ]</item>
+        <item>summer [ ˈsʌm.ə r ]</item>
+        <item>train [ treɪn ]</item>
+        <item>sleep [ sliːp ]</item>
+        <item>prove [ pruːv ]</item>
+        <item>alone [ əˈləʊn ]</item>
+        <item>leg [ le ɡ ]</item>
+        <item>exercise [ ˈ ek. s ə. saɪz ]</item>
+        <item>wall [ wɔːl ]</item>
+        <item>catch [ kætʃ ]</item>
+        <item>mount [ maʊnt ]</item>
+        <item>wish [ wɪʃ ]</item>
+        <item>sky [ ska ɪ ]</item>
+        <item>board [ bɔːd ]</item>
+        <item>joy [ dʒɔɪ ]</item>
+        <item>winter [ ˈwɪn. t ə r ]</item>
+        <item>somebody [ ˈsʌm. b ə. di ]</item>
+        <item>written [ ˈrɪt. ə n ]</item>
+        <item>wild [ waɪld ]</item>
+        <item>instrument [ˈɪn.strə.mənt]</item>
+        <item>kept [ kept ]</item>
+        <item>glass [ ɡlɑːs ]</item>
+        <item>grass [ ɡrɑːs ]</item>
+        <item>cow [ ka ʊ ]</item>
+        <item>job [ dʒɒb ]</item>
+        <item>edge [ ed ʒ ]</item>
+        <item>sign [ saɪn ]</item>
+        <item>visit [ ˈvɪz.ɪt ]</item>
+        <item>past [ pɑːst ]</item>
+        <item>soft [ sɒft ]</item>
+        <item>fun [ fʌn ]</item>
+        <item>bright [ braɪt ]</item>
+        <item>gas [ ɡæs ]</item>
+        <item>weather [ ˈweð.ə r ]</item>
+        <item>month [ mʌnθ ]</item>
+        <item>million [ ˈmɪl. jən ]</item>
+        <item>bear [ be ə r ]</item>
+        <item>finish [ ˈfɪn.ɪʃ ]</item>
+        <item>happy [ ˈhæp. i ]</item>
+        <item>hope [ həʊp ]</item>
+        <item>flower [ flaʊə r ]</item>
+        <item>clothes [ kləʊðz ]</item>
+        <item>strange [ streɪndʒ ]</item>
+        <item>gone [ ɡɒn ]</item>
+        <item>trade [ treɪd ]</item>
+        <item>melody [ ˈmel.ə.di ]</item>
+        <item>trip [ trɪp ]</item>
+        <item>office [ ˈɒf.ɪs ]</item>
+        <item>receive [ rɪˈsiːv ]</item>
+        <item>row [ rəʊ ]</item>
+        <item>mouth [ maʊθ ]</item>
+        <item>exact [ ɪɡˈzækt ]</item>
+        <item>symbol [ ˈsɪm. b ə l ]</item>
+        <item>die [ da ɪ ]</item>
+        <item>least [ liːst ]</item>
+        <item>trouble [ ˈtrʌb. ə l ]</item>
+        <item>shout [ ʃaʊt ]</item>
+        <item>except [ ɪkˈsept ]</item>
+        <item>writer [ ˈraɪ.tə r ]</item>
+        <item>seed [siːd]</item>
+        <item>tone [ təʊn ]</item>
+        <item>join [ dʒɔɪn ]</item>
+        <item>suggest [ səˈdʒest ]</item>
+        <item>clean [ kliːn ]</item>
+        <item>break [ breɪk ]</item>
+        <item>lady [ ˈleɪ.di ]</item>
+        <item>yard [ jɑːd ]</item>
+        <item>rise [ raɪz ]</item>
+        <item>bad [ bæd ]</item>
+        <item>blow [ bləʊ ]</item>
+        <item>oil [ ɔɪl ]</item>
+        <item>blood [ blʌd ]</item>
+        <item>touch [ tʌtʃ ]</item>
+        <item>goal [ ɡəʊl ]</item>
+        <item>cent [ sent ]</item>
+        <item>mix [ mɪks ]</item>
+        <item>team [ tiːm ]</item>
+        <item>wire [ waɪə r ]</item>
+        <item>cost [ kɒst ]</item>
+        <item>lost [ lɒst ]</item>
+        <item>brown [ braʊn ]</item>
+        <item>wear [ we ə r ]</item>
+        <item>garden [ ˈɡɑː.d ə n ]</item>
+        <item>equal [ ˈiː.kwəl ]</item>
+        <item>sent [ sent ]</item>
+        <item>choose [ tʃuːz ]</item>
+        <item>feel [ fiːl ]</item>
+        <item>fit [ fɪt ]</item>
+        <item>flow [ fləʊ ]</item>
+        <item>fair [ fe ə r ]</item>
+        <item>bank [ bæŋk ]</item>
+        <item>collect [ kəˈlekt ]</item>
+        <item>save [ seɪv ]</item>
+        <item>control [ kənˈtrəʊl ]</item>
+        <item>decimal [ ˈdes.ɪ.məl ]</item>
+        <item>ear [ ɪə r ]</item>
+        <item>else [ els ]</item>
+        <item>quite [ kwaɪt ]</item>
+        <item>broke [ brəʊk ]</item>
+        <item>case [ keɪs ]</item>
+        <item>middle [ ˈmɪd. ə l ]</item>
+        <item>kill [ kɪl ]</item>
+        <item>son [ sʌn ]</item>
+        <item>lake [ leɪk ]</item>
+        <item>moment [ ˈməʊ.mənt ]</item>
+        <item>scale [ skeɪl ]</item>
+        <item>loud [ laʊd ]</item>
+        <item>spring [ sprɪŋ ]</item>
+        <item>observe [ əbˈzɜːv ]</item>
+        <item>child [ tʃaɪld ]</item>
+        <item>straight [ streɪt ]</item>
+        <item>consonant [ ˈkɒn. s ə. nənt ]</item>
+        <item>nation [ ˈneɪ.ʃ ə n ]</item>
+        <item>dictionary [ˈdɪk.ʃən.ər.i]</item>
+        <item>milk [ mɪlk ]</item>
+        <item>speed [ spiːd ]</item>
+        <item>method [ ˈmeθ.əd ]</item>
+        <item>organ [ ˈɔː.ɡən ]</item>
+        <item>pay [ pe ɪ ]</item>
+        <item>age [ eɪdʒ ]</item>
+        <item>section [ ˈsek.ʃ ə n ]</item>
+        <item>dress [ dres ]</item>
+        <item>cloud [ klaʊd ]</item>
+        <item>surprise [ səˈpraɪz ]</item>
+        <item>quiet [ ˈkwaɪ.ət ]</item>
+        <item>stone [ stəʊn ]</item>
+        <item>tiny [ ˈtaɪ.ni ]</item>
+        <item>climb [ klaɪm ]</item>
+        <item>cool [ kuːl ]</item>
+        <item>design [ dɪˈzaɪn ]</item>
+        <item>poor [ pɔː r ]</item>
+        <item>lot [ lɒt ]</item>
+        <item>explain [ ɪkˈspleɪn ]</item>
+        <item>bottom [ ˈbɒt. ə m ]</item>
+        <item>key [ ki ː ]</item>
+        <item>iron [ aɪən ]</item>
+        <item>single [ ˈsɪŋ.ɡ ə l ]</item>
+        <item>stick [ stɪk ]</item>
+        <item>flat [ flæt ]</item>
+        <item>twenty [ ˈ twen. ti ]</item>
+        <item>skin [ skɪn ]</item>
+        <item>smile [ smaɪl ]</item>
+        <item>crease [ kriːs ]</item>
+        <item>hole [ həʊl ]</item>
+        <item>jump [ dʒʌmp ]</item>
+        <item>baby [ ˈbeɪ.bi ]</item>
+        <item>eight [ eɪt ]</item>
+        <item>village [ ˈvɪl.ɪdʒ ]</item>
+        <item>meet [ miːt ]</item>
+        <item>root [ ruːt ]</item>
+        <item>buy [ ba ɪ ]</item>
+        <item>raise [ reɪz ]</item>
+        <item>solve [ sɒlv ]</item>
+        <item>metal [ ˈ met. ə l ]</item>
+        <item>whether [ ˈweð.ə r ]</item>
+        <item>push [ pʊʃ ]</item>
+        <item>seven [ ˈ sev. ə n ]</item>
+        <item>paragraph [ ˈpær.ə.ɡrɑːf ]</item>
+        <item>third [ θɜːd ]</item>
+        <item>shall [ ʃæl ]</item>
+        <item>held [ held ]</item>
+        <item>hair [ he ə r ]</item>
+        <item>describe [ dɪˈskraɪb ]</item>
+        <item>cook [ kʊk ]</item>
+        <item>floor [ flɔː r ]</item>
+        <item>either [ ˈaɪ.ðə r ]</item>
+        <item>result [ rɪˈzʌlt ]</item>
+        <item>burn [ bɜːn ]</item>
+        <item>hill [ hɪl ]</item>
+        <item>safe [ seɪf ]</item>
+        <item>cat [ kæt ]</item>
+        <item>century [ ˈ sen. t ʃ ə r. i ]</item>
+        <item>consider [ kənˈsɪd.ə r ]</item>
+        <item>type [ taɪp ]</item>
+        <item>law [ lɔː ]</item>
+        <item>bit [ bɪt ]</item>
+        <item>coast [ kəʊst ]</item>
+        <item>copy [ ˈkɒp. i ]</item>
+        <item>phrase [ freɪz ]</item>
+        <item>silent [ ˈsaɪlənt ]</item>
+        <item>tall [ tɔːl ]</item>
+        <item>sand [ sænd ]</item>
+        <item>soil [ sɔɪl ]</item>
+        <item>roll [ rəʊl ]</item>
+        <item>temperature [ˈtem.prə.tʃər]</item>
+        <item>finger [ ˈfɪŋ.ɡə r ]</item>
+        <item>industry [ ˈɪn. d ə. stri ]</item>
+        <item>value [ ˈvæl. ju ː ]</item>
+        <item>fight [ faɪt ]</item>
+        <item>lie [ la ɪ ]</item>
+        <item>beat [ biːt ]</item>
+        <item>excite [ ɪkˈsaɪt ]</item>
+        <item>natural [ˈnætʃ.ər.əl / ]</item>
+        <item>view [ vju ː ]</item>
+        <item>sense [ sens ]</item>
+        <item>capital [ ˈkæp.ɪ.t ə l ]</item>
+        <item>won’t [ wəʊnt ]</item>
+        <item>chair [ tʃeə r ]</item>
+        <item>danger [ ˈdeɪn. dʒə r ]</item>
+        <item>fruit [ fruːt ]</item>
+        <item>rich [ rɪtʃ ]</item>
+        <item>thick [ θɪk ]</item>
+        <item>soldier [ ˈsəʊl. dʒə r ]</item>
+        <item>process [ ˈprəʊ.ses ]</item>
+        <item>operate [ ˈɒp. ə r. eɪt ]</item>
+        <item>practice [ ˈpræk. tɪs ]</item>
+        <item>separate [ ˈ sep ə reɪt ]</item>
+        <item>difficult [ ˈdɪf.ɪ.k ə lt ]</item>
+        <item>doctor [ ˈdɒk. t ə r ]</item>
+        <item>please [ pliːz ]</item>
+        <item>protect [ prəˈtekt ]</item>
+        <item>noon [ nuːn ]</item>
+        <item>crop [ krɒp ]</item>
+        <item>modern [ ˈmɒd. ə n ]</item>
+        <item>element [ ˈel.ɪ.mənt ]</item>
+        <item>hit [ hɪt ]</item>
+        <item>student [ ˈstjuː.d ə nt ]</item>
+        <item>corner [ ˈkɔː.nə r ]</item>
+        <item>party [ ˈpɑː.ti ]</item>
+        <item>supply [ səˈplaɪ ]</item>
+        <item>whose [ huːz ]</item>
+        <item>locate [ ləʊˈkeɪt ]</item>
+        <item>ring [ rɪŋ ]</item>
+        <item>character [ ˈkær.ə k. t ə r ]</item>
+        <item>insect [ ˈɪn. sekt ]</item>
+        <item>caught [ kɔːt ]</item>
+        <item>period [ ˈpɪə.ri.əd ]</item>
+        <item>indicate [ ˈɪn. d ɪ. keɪt ]</item>
+        <item>radio [ ˈreɪ.di.əʊ ]</item>
+        <item>spoke [ spəʊk ]</item>
+        <item>atom [ ˈæt.əm ]</item>
+        <item>human [ ˈhjuː.mən ]</item>
+        <item>history [ ˈhɪs. t ə r. i ]</item>
+        <item>effect [ ɪˈfekt ]</item>
+        <item>electric [ iˈlek. trɪk ]</item>
+        <item>expect [ ɪkˈspekt ]</item>
+        <item>bone [ bəʊn ]</item>
+        <item>rail [ reɪl ]</item>
+        <item>imagine [ ɪˈmædʒ.ɪn ]</item>
+        <item>provide [ prəˈvaɪd ]</item>
+        <item>agree [ əˈɡriː ]</item>
+        <item>thus [ ðʌs ]</item>
+        <item>gentle [ ˈdʒen. t ə l ]</item>
+        <item>woman [ ˈwʊm.ən ]</item>
+        <item>captain [ ˈkæp. tɪn ]</item>
+        <item>guess [ ɡ es ]</item>
+        <item>necessary [ ˈ nes. ə. ser. i ]</item>
+        <item>sharp [ ʃɑːp ]</item>
+        <item>wing [ wɪŋ ]</item>
+        <item>create [ kriˈeɪt ]</item>
+        <item>neighbour [ ˈneɪ.bə r ]</item>
+        <item>wash [ wɒʃ ]</item>
+        <item>bat [ bæt ]</item>
+        <item>rather [ ˈrɑː.ðə r ]</item>
+        <item>crowd [ kraʊd ]</item>
+        <item>corn [ kɔːn ]</item>
+        <item>compare [ kəmˈpeə r ]</item>
+        <item>poem [ ˈpəʊ.ɪm ]</item>
+        <item>string [ strɪŋ ]</item>
+        <item>bell [ bel ]</item>
+        <item>depend [ dɪˈpend ]</item>
+        <item>meat [ miːt ]</item>
+        <item>rub [ rʌb ]</item>
+        <item>tube [ tʃuːb ]</item>
+        <item>famous [ ˈfeɪ.məs ]</item>
+        <item>dollar [ ˈdɒl.ə r ]</item>
+        <item>stream [ striːm ]</item>
+        <item>fear [ fɪə r ]</item>
+        <item>sight [ saɪt ]</item>
+        <item>thin [ θɪn ]</item>
+        <item>triangle [ ˈtraɪ.æŋ.ɡ ə l ]</item>
+        <item>planet [ ˈplæn.ɪt ]</item>
+        <item>hurry [ ˈhʌr. i ]</item>
+        <item>chief [ tʃiːf ]</item>
+        <item>colony [ ˈkɒl.ə.ni ]</item>
+        <item>clock [ klɒk ]</item>
+        <item>mine [ maɪn ]</item>
+        <item>tie [ ta ɪ ]</item>
+        <item>enter [ ˈ en. t ə r ]</item>
+        <item>major [ ˈmeɪ.dʒə r ]</item>
+        <item>fresh [ fre ʃ ]</item>
+        <item>search [ sɜːtʃ ]</item>
+        <item>send [ send ]</item>
+        <item>yellow [ ˈjel.əʊ ]</item>
+        <item>gun [ ɡʌn ]</item>
+        <item>allow [ əˈlaʊ ]</item>
+        <item>print [ prɪnt ]</item>
+        <item>dead [ ded ]</item>
+        <item>spot [ spɒt ]</item>
+        <item>desert [ ˈdez.ət ]</item>
+        <item>suit [ suːt ]</item>
+        <item>current [ ˈkʌr. ə nt ]</item>
+        <item>lift [ lɪft ]</item>
+        <item>rose [ rəʊz ]</item>
+        <item>arrive [ əˈraɪv ]</item>
+        <item>master [ ˈmɑː.stə r ]</item>
+        <item>track [ træk ]</item>
+        <item>parent [ ˈpeə.r ə nt ]</item>
+        <item>shore [ ʃɔː r ]</item>
+        <item>division [ dɪˈvɪʒ. ə n ]</item>
+        <item>sheet [ ʃiːt ]</item>
+        <item>substance [ ˈsʌb. st ə ns ]</item>
+        <item>favour [ ˈfeɪ.və r ]</item>
+        <item>connect [ kəˈnekt ]</item>
+        <item>post [ pəʊst ]</item>
+        <item>spend [ spend ]</item>
+        <item>chord [ kɔːd ]</item>
+        <item>fat [ fæt ]</item>
+        <item>glad [ ɡlæd ]</item>
+        <item>original [ əˈrɪdʒ. ə n. ə l ]</item>
+        <item>share [ ʃ e ə r ]</item>
+        <item>station [ ˈsteɪ.ʃ ə n ]</item>
+        <item>dad [ dæd ]</item>
+        <item>bread [ bred ]</item>
+        <item>charge [ tʃɑːdʒ ]</item>
+        <item>proper [ ˈprɒp.ə r ]</item>
+        <item>bar [ bɑː r ]</item>
+        <item>offer [ ˈɒf.ə r ]</item>
+        <item>segment [ ˈseɡ.mənt ]</item>
+        <item>slave [ sleɪv ]</item>
+        <item>duck [ dʌk ]</item>
+        <item>instant [ ˈɪn. stənt ]</item>
+        <item>market [ ˈmɑː.kɪt ]</item>
+        <item>degree [ dɪˈɡriː ]</item>
+        <item>populate [ ˈpɒp. j ə. leɪt ]</item>
+        <item>education [ ˌedʒ.uˈkeɪ.ʃ ə n ]</item>
+        <item>dear [ dɪə r ]</item>
+        <item>enemy [ ˈen.ə.mi ]</item>
+        <item>reply [ rɪˈplaɪ ]</item>
+        <item>drink [ drɪŋk ]</item>
+        <item>occur [ əˈkɜː r ]</item>
+        <item>support [ səˈpɔːt ]</item>
+        <item>speech [ spiːtʃ ]</item>
+        <item>nature [ ˈneɪ.tʃə r ]</item>
+        <item>range [ reɪndʒ ]</item>
+        <item>steam [ stiːm ]</item>
+        <item>motion [ ˈməʊ.ʃ ə n ]</item>
+        <item>path [ pɑːθ ]</item>
+        <item>liquid [ ˈlɪk. wɪd ]</item>
+        <item>violence [ ˈvaɪə.l ə ns ]</item>
+        <item>meant [ ment ]</item>
+        <item>quotient [ ˈkwəʊ.ʃ ə nt ]</item>
+        <item>teeth [ tiːθ ]</item>
+        <item>shell [ ʃ el ]</item>
+        <item>neck [ nek ]</item>
+        <item>oxygen [ ˈɒk. s ɪ. dʒən ]</item>
+        <item>sugar [ ˈʃʊɡ.ə r ]</item>
+        <item>death [ de θ ]</item>
+        <item>pretty [ ˈprɪt. i ]</item>
+        <item>skill [ skɪl ]</item>
+        <item>women [ ˈwɪm.ɪn ]</item>
+        <item>season [ ˈsiː.z ə n ]</item>
+        <item>solution [ səˈluː.ʃ ə n ]</item>
+        <item>magnet [ ˈmæɡ.nət ]</item>
+        <item>silver [ ˈsɪl. v ə r ]</item>
+        <item>thanks [ θæŋks ]</item>
+        <item>lunch [ lʌntʃ ]</item>
+        <item>match [ mætʃ ]</item>
+        <item>treat [ triːt ]</item>
+        <item>especially [ ɪˈspeʃ. ə l. i ]</item>
+        <item>fail [ feɪl ]</item>
+        <item>afraid [ əˈfreɪd ]</item>
+        <item>huge [ hjuːdʒ ]</item>
+        <item>sister [ ˈsɪs. t ə r ]</item>
+        <item>steel [ stiːl ]</item>
+        <item>discuss [ dɪˈskʌs ]</item>
+        <item>forward [ ˈfɔː.wəd ]</item>
+        <item>similar [ ˈsɪm.ɪ.lə r ]</item>
+        <item>guide [ ɡaɪd ]</item>
+        <item>experience [ ɪkˈspɪə.ri.əns ]</item>
+        <item>score [ skɔː r ]</item>
+        <item>apple [ ˈæp. ə l ]</item>
+        <item>evidence [ ˈev.ɪ.d ə ns ]</item>
+        <item>message [ ˈmes.ɪdʒ ]</item>
+        <item>movie [ ˈmuː.vi ]</item>
+        <item>coat [ kəʊt ]</item>
+        <item>mass [ mæs ]</item>
+        <item>card [ kɑːd ]</item>
+        <item>band [ bænd ]</item>
+        <item>rope [ rəʊp ]</item>
+        <item>slip [ slɪp ]</item>
+        <item>win [ wɪn ]</item>
+        <item>dream [ driːm ]</item>
+        <item>evening [ ˈiːv. nɪŋ ]</item>
+        <item>condition [ kənˈdɪʃ. ə n ]</item>
+        <item>feed [ fiːd ]</item>
+        <item>tool [ tuːl ]</item>
+        <item>total [ ˈtəʊ.t ə l ]</item>
+        <item>basic [ ˈbeɪ.sɪk ]</item>
+        <item>smell [ smel ]</item>
+        <item>valley [ ˈvæl. i ]</item>
+        <item>not [ nɒt ]</item>
+        <item>double [ˈdʌb.əl]</item>
+        <item>seat [ siːt ]</item>
+        <item>continue [ kənˈtɪn. ju ː ]</item>
+        <item>news [ njuːz ]</item>
+        <item>police [ pəˈliːs ]</item>
+        <item>hat [ hæt ]</item>
+        <item>sell [ sel ]</item>
+        <item>success [ səkˈses ]</item>
+        <item>company [ ˈkʌm. p ə. ni ]</item>
+        <item>security [ sɪˈkjʊə.rə.ti ]</item>
+        <item>event [ ɪˈvent ]</item>
+        <item>particular [pəˈtɪk.jə.lər]</item>
+        <item>deal [ diːl ]</item>
+        <item>swim [ swɪm ]</item>
+        <item>term [ tɜːm ]</item>
+        <item>opposite [ ˈɒp.ə.zɪt ]</item>
+        <item>wife [ waɪf ]</item>
+        <item>shoes [ ʃuːz ]</item>
+        <item>shoulders [ ˈʃəʊl. d ə r z ]</item>
+        <item>spread [ spred ]</item>
+        <item>arrange [ əˈreɪndʒ ]</item>
+        <item>camp [ kæmp ]</item>
+        <item>invent [ ɪnˈvent ]</item>
+        <item>cotton [ ˈkɒt. ə n ]</item>
+        <item>born [ bɔːn ]</item>
+        <item>determine [ dɪˈtɜː.mɪn ]</item>
+        <item>quarter [ ˈkwɔː.tə r ]</item>
+        <item>nine [ naɪn ]</item>
+        <item>remove [ rɪˈmuːv ]</item>
+        <item>noise [ nɔɪz ]</item>
+        <item>level [ ˈ lev. ə l ]</item>
+        <item>chance [ tʃɑːns ]</item>
+        <item>gather [ ˈɡæð.ə </item>
+        <item>shop [ ʃɒp ]</item>
+        <item>stretch [ stret ʃ ]</item>
+        <item>throw [ θrəʊ ]</item>
+        <item>shine [ ʃaɪn ]</item>
+        <item>property [ ˈprɒp.ə.ti ]</item>
+        <item>issue [ ˈɪʃ.uː ]</item>
+        <item>legal [ ˈliː.ɡ ə l ]</item>
+        <item>select [ sɪˈlekt ]</item>
+        <item>wrong [ rɒŋ ]</item>
+        <item>gray [ ɡ re ɪ ]</item>
+        <item>repeat [ rɪˈpiːt ]</item>
+        <item>require [ rɪˈkwaɪə r ]</item>
+        <item>broad [ brɔːd ]</item>
+        <item>prepare [ prɪˈpeə r ]</item>
+        <item>salt [ sɒlt ]</item>
+        <item>nose [ nəʊz ]</item>
+        <item>plural [ ˈplʊə.r ə l ]</item>
+        <item>anger [ ˈæŋ.ɡə r ]</item>
+        <item>claim [ kleɪm ]</item>
+        <item>price [ praɪs ]</item>
+    </string-array>
+
+    <string-array name="russian">
+        <item>как</item>
+        <item>я</item>
+        <item>его</item>
+        <item>что/тот</item>
+        <item>он</item>
+        <item>был</item>
+        <item>для</item>
+        <item>на</item>
+        <item>являются</item>
+        <item>с</item>
+        <item>они</item>
+        <item>быть</item>
+        <item>один</item>
+        <item>иметь</item>
+        <item>это</item>
+        <item>из</item>
+        <item>от</item>
+        <item>горячий / жарко</item>
+        <item>слово</item>
+        <item>но</item>
+        <item>что</item>
+        <item>некоторый</item>
+        <item>является</item>
+        <item>это</item>
+        <item>ты</item>
+        <item>или</item>
+        <item>имел</item>
+        <item>в</item>
+        <item>из / о</item>
+        <item>в / к</item>
+        <item>и</item>
+        <item>в</item>
+        <item>мы</item>
+        <item>может</item>
+        <item>из / вне</item>
+        <item>другой</item>
+        <item>были</item>
+        <item>который</item>
+        <item>делать</item>
+        <item>их</item>
+        <item>время</item>
+        <item>если</item>
+        <item>будет</item>
+        <item>как</item>
+        <item>говорить</item>
+        <item>каждый</item>
+        <item>говорить</item>
+        <item>делает</item>
+        <item>задавать / комплект</item>
+        <item>три</item>
+        <item>хотеть</item>
+        <item>воздух</item>
+        <item>хорошо</item>
+        <item>также</item>
+        <item>играть</item>
+        <item>маленький</item>
+        <item>конец</item>
+        <item>ставить</item>
+        <item>дом</item>
+        <item>читать</item>
+        <item>рука</item>
+        <item>порт</item>
+        <item>большой</item>
+        <item>читать по буквам / орфография</item>
+        <item>добавлять</item>
+        <item>даже</item>
+        <item>земля</item>
+        <item>здесь</item>
+        <item>должен</item>
+        <item>большой</item>
+        <item>высокий</item>
+        <item>такой</item>
+        <item>следовать</item>
+        <item>действовать</item>
+        <item>почему</item>
+        <item>спрашивать</item>
+        <item>люди</item>
+        <item>менять</item>
+        <item>отправился</item>
+        <item>свет / легкий</item>
+        <item>добрый / разновидность</item>
+        <item>от / выключенный</item>
+        <item>необходимость</item>
+        <item>дом</item>
+        <item>картина / фото</item>
+        <item>пробовать / пытаться</item>
+        <item>нас</item>
+        <item>снова</item>
+        <item>животное</item>
+        <item>точка</item>
+        <item>мать</item>
+        <item>мир</item>
+        <item>близко</item>
+        <item>строить</item>
+        <item>себя</item>
+        <item>земля</item>
+        <item>отец</item>
+        <item>любой</item>
+        <item>новый</item>
+        <item>работа</item>
+        <item>часть</item>
+        <item>брать</item>
+        <item>получать</item>
+        <item>место</item>
+        <item>сделать</item>
+        <item>жить</item>
+        <item>где</item>
+        <item>после</item>
+        <item>назад</item>
+        <item>немного</item>
+        <item>только</item>
+        <item>круглый / вокруг</item>
+        <item>мужчина</item>
+        <item>год</item>
+        <item>пришел</item>
+        <item>показывать</item>
+        <item>каждый</item>
+        <item>хороший</item>
+        <item>мне</item>
+        <item>давать</item>
+        <item>наш</item>
+        <item>под</item>
+        <item>имя</item>
+        <item>очень</item>
+        <item>через</item>
+        <item>только / просто</item>
+        <item>вид, форма / образовывать</item>
+        <item>предложение</item>
+        <item>отличный</item>
+        <item>думать</item>
+        <item>говорить</item>
+        <item>помогать, помощь</item>
+        <item>низкий</item>
+        <item>линия, черта</item>
+        <item>отличаться</item>
+        <item>поворачивать</item>
+        <item>причина</item>
+        <item>много</item>
+        <item>значить / подлый / средний</item>
+        <item>до</item>
+        <item>двигать</item>
+        <item>право / верный</item>
+        <item>мальчик</item>
+        <item>старый</item>
+        <item>тоже</item>
+        <item>также</item>
+        <item>она</item>
+        <item>все</item>
+        <item>там</item>
+        <item>когда</item>
+        <item>вверх / подниматься</item>
+        <item>использовать</item>
+        <item>твой</item>
+        <item>путь</item>
+        <item>о</item>
+        <item>много</item>
+        <item>затем</item>
+        <item>их</item>
+        <item>писать</item>
+        <item>бы / было бы</item>
+        <item>нравиться</item>
+        <item>так</item>
+        <item>эти</item>
+        <item>ее</item>
+        <item>долго / длинный</item>
+        <item>делать</item>
+        <item>вещь</item>
+        <item>видеть</item>
+        <item>его</item>
+        <item>два / двое</item>
+        <item>имеет</item>
+        <item>смотреть / взгляд</item>
+        <item>больше</item>
+        <item>день</item>
+        <item>мог</item>
+        <item>идти</item>
+        <item>приходить</item>
+        <item>сделал</item>
+        <item>номер</item>
+        <item>звук</item>
+        <item>нет</item>
+        <item>самый / большинство</item>
+        <item>люди</item>
+        <item>мой</item>
+        <item>над</item>
+        <item>знать</item>
+        <item>вода</item>
+        <item>чем</item>
+        <item>звонить / звонок</item>
+        <item>первый</item>
+        <item>кто</item>
+        <item>может</item>
+        <item>вниз</item>
+        <item>сторона</item>
+        <item>был</item>
+        <item>сейчас</item>
+        <item>найти</item>
+        <item>голова</item>
+        <item>стоять</item>
+        <item>свой / владеть</item>
+        <item>страница</item>
+        <item>должен</item>
+        <item>страна</item>
+        <item>найденный</item>
+        <item>ответ / отвечать</item>
+        <item>школа</item>
+        <item>расти</item>
+        <item>изучать</item>
+        <item>все еще</item>
+        <item>учиться</item>
+        <item>растение / сажать</item>
+        <item>накрывать / обложка</item>
+        <item>еда</item>
+        <item>солнце</item>
+        <item>четыре</item>
+        <item>между</item>
+        <item>состояние, государство, штат</item>
+        <item>держать, продолжать</item>
+        <item>глаз</item>
+        <item>никогда</item>
+        <item>последний</item>
+        <item>позволять</item>
+        <item>мысль / думал</item>
+        <item>город</item>
+        <item>дерево</item>
+        <item>пересекать / крест</item>
+        <item>ферма</item>
+        <item>тяжелый / твердый</item>
+        <item>начинать</item>
+        <item>может быть / мощь</item>
+        <item>история</item>
+        <item>увидел / пила</item>
+        <item>далеко</item>
+        <item>море</item>
+        <item>рисовать</item>
+        <item>лево / оставил</item>
+        <item>поздно</item>
+        <item>бежать</item>
+        <item>не</item>
+        <item>в то время, как</item>
+        <item>нажимать / давить</item>
+        <item>близко / закрывать</item>
+        <item>ночь</item>
+        <item>реальный</item>
+        <item>жизнь</item>
+        <item>несколько</item>
+        <item>север</item>
+        <item>книга</item>
+        <item>нести</item>
+        <item>взял</item>
+        <item>наука</item>
+        <item>есть</item>
+        <item>комната</item>
+        <item>друг</item>
+        <item>началось</item>
+        <item>идея</item>
+        <item>рыба</item>
+        <item>гора</item>
+        <item>остановка / останавливать</item>
+        <item>однажды</item>
+        <item>базовый / основывать</item>
+        <item>слышать</item>
+        <item>лошадь</item>
+        <item>резать</item>
+        <item>конечно / уверен</item>
+        <item>смотреть / часы</item>
+        <item>цвет</item>
+        <item>лицо</item>
+        <item>дерево</item>
+        <item>главный</item>
+        <item>открыть</item>
+        <item>казаться</item>
+        <item>вместе</item>
+        <item>следующий</item>
+        <item>белый</item>
+        <item>дети</item>
+        <item>начинать</item>
+        <item>получил</item>
+        <item>гулять / прогулка</item>
+        <item>пример</item>
+        <item>легкость / облегчать</item>
+        <item>бумага</item>
+        <item>группа</item>
+        <item>всегда</item>
+        <item>музыка</item>
+        <item>те</item>
+        <item>оба</item>
+        <item>отметка / отмечать</item>
+        <item>часто</item>
+        <item>письмо</item>
+        <item>до тех пор</item>
+        <item>миля</item>
+        <item>река</item>
+        <item>машина</item>
+        <item>ноги</item>
+        <item>заботиться / уход</item>
+        <item>секунда</item>
+        <item>достаточно / довольно</item>
+        <item>простой</item>
+        <item>девочка</item>
+        <item>обычно</item>
+        <item>молодой</item>
+        <item>готовый</item>
+        <item>выше</item>
+        <item>когда-либо</item>
+        <item>красный</item>
+        <item>список</item>
+        <item>хоть</item>
+        <item>чувствовать</item>
+        <item>говорить</item>
+        <item>птица</item>
+        <item>скоро</item>
+        <item>тело</item>
+        <item>собака</item>
+        <item>семья</item>
+        <item>непосредственный / направлять</item>
+        <item>поза / позировать</item>
+        <item>покидать</item>
+        <item>песня</item>
+        <item>мера / измерять</item>
+        <item>дверь</item>
+        <item>продукт</item>
+        <item>черный</item>
+        <item>короткий</item>
+        <item>числительное</item>
+        <item>класс / сорт</item>
+        <item>ветер</item>
+        <item>вопрос</item>
+        <item>случаться</item>
+        <item>полный / завершенный</item>
+        <item>корабль</item>
+        <item>площадь / зона</item>
+        <item>половина</item>
+        <item>рок / камень / скала</item>
+        <item>заказ / порядок</item>
+        <item>огонь</item>
+        <item>юг</item>
+        <item>проблема</item>
+        <item>часть / кусок</item>
+        <item>говорил</item>
+        <item>знал</item>
+        <item>проходить / передача</item>
+        <item>с / поскольку</item>
+        <item>верх / вершина</item>
+        <item>весь / целый</item>
+        <item>король</item>
+        <item>улица</item>
+        <item>дюйм</item>
+        <item>умножать</item>
+        <item>ничего</item>
+        <item>курс / блюдо</item>
+        <item>оставаться</item>
+        <item>колесо</item>
+        <item>полный</item>
+        <item>сила / заставлять</item>
+        <item>голубой / синий / грустный</item>
+        <item>объект</item>
+        <item>решать</item>
+        <item>поверхность</item>
+        <item>глубоко</item>
+        <item>луна</item>
+        <item>остров</item>
+        <item>нога</item>
+        <item>система</item>
+        <item>занят</item>
+        <item>тест / проверять</item>
+        <item>записывать</item>
+        <item>лодка</item>
+        <item>общий / обычный</item>
+        <item>золото</item>
+        <item>возможный</item>
+        <item>самолет / плоскость</item>
+        <item>место</item>
+        <item>сухой</item>
+        <item>чудо / удивляться</item>
+        <item>смех / смеяться</item>
+        <item>тысяча</item>
+        <item>тому назад</item>
+        <item>побежал</item>
+        <item>проверять</item>
+        <item>игра</item>
+        <item>форма</item>
+        <item>приравнивать</item>
+        <item>хорошо</item>
+        <item>скучать / пропускать</item>
+        <item>привел</item>
+        <item>жара, высокая температура</item>
+        <item>снег</item>
+        <item>шина / утомлять</item>
+        <item>приносить</item>
+        <item>да</item>
+        <item>отдаленный</item>
+        <item>наполнять</item>
+        <item>восток</item>
+        <item>краска / красить</item>
+        <item>язык</item>
+        <item>среди</item>
+        <item>единица</item>
+        <item>мощность / сила</item>
+        <item>город</item>
+        <item>отлично</item>
+        <item>определенный</item>
+        <item>летать</item>
+        <item>падать / осень</item>
+        <item>вести / руководить</item>
+        <item>плакать</item>
+        <item>темный, темнота</item>
+        <item>машина / механизм</item>
+        <item>примечание / отмечать</item>
+        <item>ждать</item>
+        <item>план</item>
+        <item>цифра / фигура</item>
+        <item>звезда</item>
+        <item>коробка</item>
+        <item>существительное</item>
+        <item>поле</item>
+        <item>остальное / отдыхать</item>
+        <item>поправлять / правильный</item>
+        <item>в состоянии / способный</item>
+        <item>фунт</item>
+        <item>сделанный</item>
+        <item>красота</item>
+        <item>водить</item>
+        <item>стоял</item>
+        <item>содержать</item>
+        <item>перед</item>
+        <item>обучать</item>
+        <item>неделя</item>
+        <item>финал / последний</item>
+        <item>дал</item>
+        <item>зеленый</item>
+        <item>ох</item>
+        <item>быстро</item>
+        <item>развивать</item>
+        <item>океан</item>
+        <item>тепло</item>
+        <item>свободный</item>
+        <item>минута</item>
+        <item>сильный</item>
+        <item>особый</item>
+        <item>разум / возражать</item>
+        <item>позади</item>
+        <item>ясный / понятно</item>
+        <item>хвост</item>
+        <item>производить</item>
+        <item>факт</item>
+        <item>пространство / космос</item>
+        <item>слышал</item>
+        <item>лучший</item>
+        <item>час</item>
+        <item>лучше</item>
+        <item>правда</item>
+        <item>в течение</item>
+        <item>сотня</item>
+        <item>пять</item>
+        <item>помнить</item>
+        <item>шаг</item>
+        <item>ранний / рано</item>
+        <item>держать</item>
+        <item>запад</item>
+        <item>земля</item>
+        <item>интерес</item>
+        <item>достигать</item>
+        <item>быстро</item>
+        <item>глагол</item>
+        <item>петь</item>
+        <item>слушать</item>
+        <item>шесть</item>
+        <item>стол</item>
+        <item>путешествовать</item>
+        <item>меньше</item>
+        <item>утро</item>
+        <item>десять</item>
+        <item>просто / простой</item>
+        <item>несколько</item>
+        <item>гласный (звук)</item>
+        <item>к / по направлению к</item>
+        <item>война</item>
+        <item>лежать</item>
+        <item>против</item>
+        <item>узор</item>
+        <item>медленно / медленный</item>
+        <item>центр</item>
+        <item>любовь</item>
+        <item>человек</item>
+        <item>деньги</item>
+        <item>обслуживать</item>
+        <item>появляться</item>
+        <item>дорога</item>
+        <item>карта</item>
+        <item>дождь</item>
+        <item>правило</item>
+        <item>управлять</item>
+        <item>тянуть</item>
+        <item>холодный</item>
+        <item>уведомление / замечать</item>
+        <item>голос</item>
+        <item>энергия</item>
+        <item>охотититься</item>
+        <item>вероятный</item>
+        <item>кровать</item>
+        <item>брат</item>
+        <item>яйцо</item>
+        <item>ездить / поездка</item>
+        <item>клетка / мобильный ( амер. )</item>
+        <item>верить</item>
+        <item>возможно</item>
+        <item>выбирать</item>
+        <item>внезапный</item>
+        <item>считать</item>
+        <item>квадрат / площадь</item>
+        <item>причина</item>
+        <item>длина</item>
+        <item>представлять</item>
+        <item>искусство</item>
+        <item>предмет</item>
+        <item>регион</item>
+        <item>размер</item>
+        <item>меняться / варьировать</item>
+        <item>селиться</item>
+        <item>говорить</item>
+        <item>вес</item>
+        <item>главный / общий</item>
+        <item>лед</item>
+        <item>иметь значение / предмет / материя</item>
+        <item>круг</item>
+        <item>пара</item>
+        <item>включать в себя</item>
+        <item>разделять</item>
+        <item>слог</item>
+        <item>чувствовал</item>
+        <item>большой / великий</item>
+        <item>мяч</item>
+        <item>еще</item>
+        <item>волна</item>
+        <item>капля / бросать</item>
+        <item>сердце</item>
+        <item>до полудня</item>
+        <item>подарок / настоящий</item>
+        <item>тяжелый</item>
+        <item>танец / танцевать</item>
+        <item>двигатель</item>
+        <item>позиция</item>
+        <item>рука</item>
+        <item>широкий / повсюду</item>
+        <item>паруса / плавать</item>
+        <item>материал</item>
+        <item>доля</item>
+        <item>лес</item>
+        <item>сидеть</item>
+        <item>гонка / раса</item>
+        <item>окно</item>
+        <item>магазин</item>
+        <item>лето</item>
+        <item>поезд</item>
+        <item>спать</item>
+        <item>доказывать</item>
+        <item>один / одинокий</item>
+        <item>нога</item>
+        <item>упражнение</item>
+        <item>стена</item>
+        <item>поймать</item>
+        <item>взбираться / монтировать</item>
+        <item>желать</item>
+        <item>небо</item>
+        <item>доска</item>
+        <item>радость</item>
+        <item>зима</item>
+        <item>кто-то</item>
+        <item>написанный</item>
+        <item>дикий</item>
+        <item>инструмент</item>
+        <item>сохранил</item>
+        <item>стекло</item>
+        <item>трава</item>
+        <item>корова</item>
+        <item>работа</item>
+        <item>край</item>
+        <item>подписывать / знак</item>
+        <item>посещать</item>
+        <item>прошлое</item>
+        <item>мягкий</item>
+        <item>веселый / веселье</item>
+        <item>яркий</item>
+        <item>газ / бензин ( амер. )</item>
+        <item>погода</item>
+        <item>месяц</item>
+        <item>миллион</item>
+        <item>медведь / выносить (терпеть)</item>
+        <item>закончить</item>
+        <item>счастливый</item>
+        <item>надежда / надеяться</item>
+        <item>цветок</item>
+        <item>одежда</item>
+        <item>странный</item>
+        <item>ушедший</item>
+        <item>торговля</item>
+        <item>мелодия</item>
+        <item>поездка</item>
+        <item>офис</item>
+        <item>получать</item>
+        <item>ряд</item>
+        <item>рот</item>
+        <item>точный</item>
+        <item>символ</item>
+        <item>умирать</item>
+        <item>наименее / меньше всего</item>
+        <item>проблема</item>
+        <item>кричать</item>
+        <item>кроме / исключая</item>
+        <item>писатель</item>
+        <item>семя</item>
+        <item>тон</item>
+        <item>присоединяться</item>
+        <item>предлагать</item>
+        <item>чисто / чистый</item>
+        <item>перерыв / ломать</item>
+        <item>леди</item>
+        <item>двор</item>
+        <item>рост / подниматься</item>
+        <item>плохой</item>
+        <item>удар / дуть</item>
+        <item>масло</item>
+        <item>кровь</item>
+        <item>трогать / прикосновение</item>
+        <item>цель</item>
+        <item>цент</item>
+        <item>смесь / смешивать</item>
+        <item>команда</item>
+        <item>проволока</item>
+        <item>стоимость</item>
+        <item>потерял / потерянный</item>
+        <item>коричневый</item>
+        <item>носить</item>
+        <item>сад</item>
+        <item>равный</item>
+        <item>отправил / отправленный</item>
+        <item>выбирать</item>
+        <item>чувствовать</item>
+        <item>соответствовать / подходить</item>
+        <item>поток / течь</item>
+        <item>ярмарка / честный</item>
+        <item>банк</item>
+        <item>собирать</item>
+        <item>сохранять</item>
+        <item>контроль / контролировать</item>
+        <item>десятичный</item>
+        <item>ухо</item>
+        <item>еще</item>
+        <item>довольно</item>
+        <item>сломал / без денег</item>
+        <item>случай</item>
+        <item>средний</item>
+        <item>убивать</item>
+        <item>сын</item>
+        <item>озеро</item>
+        <item>момент</item>
+        <item>шкала</item>
+        <item>громко</item>
+        <item>весна</item>
+        <item>наблюдать</item>
+        <item>ребенок</item>
+        <item>прямо / прямой</item>
+        <item>согласный (звук)</item>
+        <item>нация</item>
+        <item>словарь</item>
+        <item>молоко</item>
+        <item>скорость</item>
+        <item>метод</item>
+        <item>орган</item>
+        <item>платить</item>
+        <item>возраст</item>
+        <item>раздел</item>
+        <item>платье / одеваться</item>
+        <item>облако</item>
+        <item>сюрприз</item>
+        <item>тихо / тихий</item>
+        <item>камень</item>
+        <item>крошечный</item>
+        <item>подъем / взбираться</item>
+        <item>крутой / прохладно</item>
+        <item>дизайн</item>
+        <item>бедный</item>
+        <item>много</item>
+        <item>объяснять</item>
+        <item>низ</item>
+        <item>ключ</item>
+        <item>железо</item>
+        <item>один</item>
+        <item>придерживаться / приклеивать</item>
+        <item>квартира ( брит. ) / плоский</item>
+        <item>двадцать</item>
+        <item>кожа</item>
+        <item>улыбка</item>
+        <item>складка / мять</item>
+        <item>дыра</item>
+        <item>прыгать</item>
+        <item>ребенок</item>
+        <item>восемь</item>
+        <item>деревня</item>
+        <item>встречать</item>
+        <item>корень</item>
+        <item>покупать</item>
+        <item>поднимать / повышать</item>
+        <item>решать</item>
+        <item>металл</item>
+        <item>будь то / ли</item>
+        <item>давить / нажимать</item>
+        <item>семь</item>
+        <item>параграф</item>
+        <item>третий</item>
+        <item>должен</item>
+        <item>держал</item>
+        <item>волосы</item>
+        <item>описывать</item>
+        <item>готовить</item>
+        <item>пол</item>
+        <item>или</item>
+        <item>результат</item>
+        <item>гореть / ожог</item>
+        <item>холм</item>
+        <item>безопасный</item>
+        <item>кот / кошка</item>
+        <item>век / столетие</item>
+        <item>рассматривать</item>
+        <item>тип / печатать</item>
+        <item>закон</item>
+        <item>немного / часть</item>
+        <item>берег</item>
+        <item>копировать / копия</item>
+        <item>фраза / формулировать</item>
+        <item>тихий</item>
+        <item>высокий</item>
+        <item>песок</item>
+        <item>почва</item>
+        <item>вертеть</item>
+        <item>температура</item>
+        <item>палец</item>
+        <item>индустрия</item>
+        <item>значение / стоимость / ценность</item>
+        <item>драка / бороться</item>
+        <item>ложь / лгать</item>
+        <item>бить / ритм</item>
+        <item>возбуждать</item>
+        <item>натуральный</item>
+        <item>вид</item>
+        <item>смысл / чувство</item>
+        <item>столица</item>
+        <item>не будет</item>
+        <item>стул</item>
+        <item>опасность</item>
+        <item>фрукт</item>
+        <item>богатый</item>
+        <item>толстый</item>
+        <item>солдат</item>
+        <item>процесс / подвергать обработке</item>
+        <item>управлять</item>
+        <item>практиковать / практика</item>
+        <item>разделять</item>
+        <item>сложный</item>
+        <item>доктор</item>
+        <item>пожалуйста / угождать</item>
+        <item>защищать</item>
+        <item>полдень</item>
+        <item>обрезать / урожай</item>
+        <item>современный</item>
+        <item>элемент</item>
+        <item>удар / бить</item>
+        <item>студент</item>
+        <item>угол</item>
+        <item>вечеринка / партия</item>
+        <item>поставка / снабжать</item>
+        <item>чьи</item>
+        <item>размещать</item>
+        <item>кольцо</item>
+        <item>персонаж / характер</item>
+        <item>насекомое</item>
+        <item>поймал / пойманный</item>
+        <item>период / точка</item>
+        <item>указывать</item>
+        <item>радио</item>
+        <item>говорил</item>
+        <item>атом</item>
+        <item>человек</item>
+        <item>история</item>
+        <item>эффект / следствие</item>
+        <item>электрический</item>
+        <item>ожидать</item>
+        <item>кость</item>
+        <item>рельс / железнодорожный путь</item>
+        <item>представлять</item>
+        <item>предоставлять</item>
+        <item>соглашаться</item>
+        <item>таким образом</item>
+        <item>нежный</item>
+        <item>женщина</item>
+        <item>капитан</item>
+        <item>предположение / угадывать</item>
+        <item>необходимый</item>
+        <item>острый / умный / стильный (о человеке)</item>
+        <item>крыло</item>
+        <item>создавать</item>
+        <item>сосед</item>
+        <item>мыть</item>
+        <item>летучая мышь / бита</item>
+        <item>скорее</item>
+        <item>толпа</item>
+        <item>кукуруза</item>
+        <item>сравнивать</item>
+        <item>стих</item>
+        <item>струна</item>
+        <item>колокол</item>
+        <item>зависеть</item>
+        <item>мясо</item>
+        <item>тереть</item>
+        <item>трубка / метро (в Лондоне)</item>
+        <item>известный</item>
+        <item>доллар</item>
+        <item>поток / течь</item>
+        <item>страх / бояться</item>
+        <item>взгляд / вид / зрение</item>
+        <item>тонкий</item>
+        <item>треугольник</item>
+        <item>планета</item>
+        <item>торопиться / спешка</item>
+        <item>шеф</item>
+        <item>колония</item>
+        <item>часы</item>
+        <item>мой</item>
+        <item>галстук / завязывать</item>
+        <item>вход / входить</item>
+        <item>майор / основной</item>
+        <item>свежий</item>
+        <item>поиск / искать</item>
+        <item>посылать</item>
+        <item>желтый</item>
+        <item>пистолет / ружье</item>
+        <item>позволять</item>
+        <item>печать / печатать</item>
+        <item>мертвый</item>
+        <item>место / пятно</item>
+        <item>пустыня</item>
+        <item>костюм / подходить</item>
+        <item>текущий</item>
+        <item>поднимать / лифт ( брит. )</item>
+        <item>роза</item>
+        <item>прибывать</item>
+        <item>мастер / главный / справляться</item>
+        <item>трек / след</item>
+        <item>родитель</item>
+        <item>побережье</item>
+        <item>деление</item>
+        <item>лист / простынь</item>
+        <item>вещество</item>
+        <item>одолжение</item>
+        <item>соединять</item>
+        <item>почта / после</item>
+        <item>тратить</item>
+        <item>аккорд</item>
+        <item>жир / жирный</item>
+        <item>рад</item>
+        <item>оригинальный</item>
+        <item>делиться</item>
+        <item>станция</item>
+        <item>папа</item>
+        <item>хлеб</item>
+        <item>заряд / заряжать</item>
+        <item>правильный</item>
+        <item>бар</item>
+        <item>предлагать / предложение</item>
+        <item>часть / сегмент</item>
+        <item>раб</item>
+        <item>утка</item>
+        <item>мгновенный</item>
+        <item>рынок</item>
+        <item>температура</item>
+        <item>населять</item>
+        <item>образование</item>
+        <item>дорогая</item>
+        <item>враг</item>
+        <item>ответ / отвечать</item>
+        <item>напиток / пить</item>
+        <item>происходить</item>
+        <item>поддержка / поддерживать</item>
+        <item>речь</item>
+        <item>природа</item>
+        <item>диапазон</item>
+        <item>пар</item>
+        <item>движение</item>
+        <item>путь</item>
+        <item>жидкость</item>
+        <item>жестокость</item>
+        <item>значил</item>
+        <item>частное</item>
+        <item>зубы</item>
+        <item>ракушка</item>
+        <item>шея</item>
+        <item>кислород</item>
+        <item>сахар</item>
+        <item>смерть</item>
+        <item>красивый / довольно</item>
+        <item>умение</item>
+        <item>женщины</item>
+        <item>сезон / время года</item>
+        <item>решение</item>
+        <item>магнит</item>
+        <item>серебро</item>
+        <item>спасибо</item>
+        <item>ужин</item>
+        <item>совпадать / матч</item>
+        <item>угощение / обращаться</item>
+        <item>особенно</item>
+        <item>провал / терпеть провал</item>
+        <item>испуганный</item>
+        <item>огромный</item>
+        <item>сестра</item>
+        <item>сталь</item>
+        <item>обсуждать</item>
+        <item>вперед</item>
+        <item>похожий</item>
+        <item>руководство / направлять</item>
+        <item>опыт</item>
+        <item>очки / счет</item>
+        <item>яблоко</item>
+        <item>доказательства</item>
+        <item>сообщение</item>
+        <item>фильм ( амер. )</item>
+        <item>пальто</item>
+        <item>масса</item>
+        <item>карта</item>
+        <item>группа</item>
+        <item>веревка</item>
+        <item>скользить</item>
+        <item>побеждать</item>
+        <item>мечта / мечтать / сон</item>
+        <item>вечер</item>
+        <item>состояние</item>
+        <item>кормить</item>
+        <item>инструмент</item>
+        <item>сумма</item>
+        <item>базовый</item>
+        <item>запах</item>
+        <item>долина</item>
+        <item>не</item>
+        <item>двойной / вдвойне / двойник</item>
+        <item>место</item>
+        <item>продолжать</item>
+        <item>новости</item>
+        <item>полиция</item>
+        <item>шляпа</item>
+        <item>продавать</item>
+        <item>успех</item>
+        <item>компания</item>
+        <item>безопасность / охрана</item>
+        <item>событие</item>
+        <item>особенный / конкретный</item>
+        <item>сделка / часть / разбираться</item>
+        <item>плавать</item>
+        <item>срок / семестр / термин</item>
+        <item>напротив / противоположный</item>
+        <item>жена</item>
+        <item>обувь / туфли</item>
+        <item>плечи</item>
+        <item>распространение / распространять</item>
+        <item>организовывать</item>
+        <item>лагерь</item>
+        <item>изобретать</item>
+        <item>хлопок</item>
+        <item>родиться</item>
+        <item>определять</item>
+        <item>четверть</item>
+        <item>девять</item>
+        <item>удалять</item>
+        <item>шум</item>
+        <item>уровень</item>
+        <item>шанс</item>
+        <item>собирать</item>
+        <item>магазин ( брит. )</item>
+        <item>растягивать</item>
+        <item>бросать</item>
+        <item>сиять</item>
+        <item>собственность</item>
+        <item>проблема</item>
+        <item>законный</item>
+        <item>выбирать</item>
+        <item>неправильный</item>
+        <item>серый</item>
+        <item>повторять</item>
+        <item>требоваться</item>
+        <item>широкий</item>
+        <item>подготавливать</item>
+        <item>соль / соленый</item>
+        <item>нос</item>
+        <item>множественное число</item>
+        <item>гнев</item>
+        <item>запрос / требовать</item>
+        <item>цена</item>
+    </string-array>
+    <string-array name="englishSentence">
+        <item>He has written many books.</item>
+        <item>I cannot go to the cinema with you. I have a lot of work.</item>
+        <item>The school library has few English books.</item>
+        <item>Many schools have been closed in the past years.</item>
+        <item>–Shall we go for coffee? –I’d go, but I don’t drink coffee.</item>
+        <item>I think you put too much sugar in the tea.</item>
+        <item>It takes a lot of money to build a house.</item>
+        <item>Many people do not consume tea and coffee.</item>
+        <item>I’m going to go to work.</item>
+        <item>On the way to work, you need to buy coffee and a donut.</item>
+        <item>My sister can’t learn the lyrics.</item>
+        <item>How do you get along with your brothers?</item>
+        <item>Tomorrow at 4 o’clock I’ll be leaving school.</item>
+        <item>They got out of the house and caught a cab.</item>
+        <item>If you study well, you’ll go to the sea in summer.</item>
+        <item>He was very unhappy when he found out we’d been stopping by for a few minutes.</item>
+        <item>My friend already got his license.</item>
+        <item>You should better don’t push your luck and wind the alarm clock.</item>
+        <item>He ran up to me, and he gave me a present.</item>
+        <item>My sister, who was never afraid, rushed to the rescue.</item>
+        <item>He hurt me with his cruel words.</item>
+        <item>A little girl brought flowers because her mother was often sad.</item>
+        <item>By the evening, they had turned the house upside down with a torch, but no flashlight.</item>
+        <item>What a shame! This taxi driver will be late.</item>
+        <item>By the end of the day, they’ll be here to do all the homework.</item>
+    </string-array>
+    <string-array name="russianSentence">
+        <item>Он написал много книг.</item>
+        <item>Я не могу пойти с вами в кино. У меня очень много работы.</item>
+        <item>В школьной библиотеке мало английских книг.</item>
+        <item>В прошлом годы было закрыто много школ.</item>
+        <item>–Может пойдем выпьем кофе? –Я бы пошел, но я кофе не пью.</item>
+        <item>Мне кажется, что ты положила слишком много сахара в чай.</item>
+        <item>Чтобы построить дом, необходима большая сумма денег.</item>
+        <item>Многие люди не употребляют чай и кофе.</item>
+        <item>Я собираюсь пойти на работу.</item>
+        <item>По дороге на работу необходимо купить кофе и пончик.</item>
+        <item>Моя сестра не может выучить этот текст.</item>
+        <item>Как ты уживаешься со своими братьями?</item>
+        <item>Завтра в 4 часа я буду выходить из школы.</item>
+        <item>Oни вышли из дома и поймали такси.</item>
+        <item>Если ты будешь учиться хорошо, летом поедешь на море.</item>
+        <item>Он был очень недовольным, когда узнал, что мы заезжали на несколько минут.</item>
+        <item>Мой друг уже получил права на машину.</item>
+        <item>Ты бы лучше не искушал судьбу и завел бы часы.</item>
+        <item>Он подбежал ко мне, и подарил подарок.</item>
+        <item>Моя сестра, которая никогда не боялась, устремилась на помощь.</item>
+        <item>Он обидел меня своими жестокими словами.</item>
+        <item>Маленькая девочка принесла цветы, потому что ее мама часто грустила.</item>
+        <item>К вечеру они перевернули дом верх тормашками, но не нашли фонарик.</item>
+        <item>Какая досада! Из-за этого водителя такси опоздает.</item>
+        <item>К вечеру они заедут и сделают все уроки.</item>
+    </string-array>
+</resources>

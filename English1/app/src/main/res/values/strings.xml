@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">English by ISR</string>
+
+    <string name="word">Word</string>
+    <string name="sentences">Sentences</string>
+    <string name="add_sent">Add Sent</string>
+
+    <string name="engSent">Предложение на английском:</string>
+    <string name="rusSent">Предложение на русском:</string>
+    <string name="next">Далее</string>
+    <string name="wordRus">Слово</string>
+    <string name="start">Начать</string>
+    <string name="reset">Reset</string>
+    <string name="delete">Удалить</string>
+    <string name="add">Добавить</string>
+    <string name="checkTrue">Проверить</string>
+    <string name="addSent">ДОБАВЛЕНИЕ ПРЕДЛОЖЕНИЙ ДЛЯ ПЕРЕВОДА</string>
+</resources>
