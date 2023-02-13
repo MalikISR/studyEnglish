@@ -46,7 +46,7 @@ class WordTranslation : Fragment() {
     }
 
     private fun init()= with(binding){
-        binding.quantityWord.text = arrayEnglish.size.toString()
+        quantityWord.text = arrayEnglish.size.toString()
         bStart.setOnClickListener {
             onClickStart()
         }

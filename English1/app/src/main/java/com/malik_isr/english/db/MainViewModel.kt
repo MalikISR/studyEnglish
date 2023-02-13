@@ -1,6 +1,5 @@
 package com.malik_isr.english.db
 
-import android.util.Log
 import androidx.lifecycle.*
 import com.malik_isr.english.entities.Sentences
 import kotlinx.coroutines.launch
@@ -12,11 +11,6 @@ class MainViewModel(dataBase: MainDataBase): ViewModel() {
 
     fun insertSentence(sentence: Sentences) = viewModelScope.launch {
         dao.insertSentence(sentence)
-        //Log.d("My", "${sentence.id} ${sentence.English} ${sentence.Russian}")
-    }
-
-    fun allSentAsSent(){
-
     }
 
     class MainViewModelFactory(private val dataBase: MainDataBase) : ViewModelProvider.Factory{
